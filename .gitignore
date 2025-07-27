@@ -1,0 +1,19 @@
+# Eclipse metadata and project-specific settings
+.metadata/
+.settings/
+.project
+.classpath
+
+# Build output
+bin/
+build/
+out/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
